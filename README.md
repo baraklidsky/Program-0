@@ -3,13 +3,13 @@ Program 0 for BME303 Spring 2018
 
 This is the only file you will edit for this program.
 
-In the blank space below, please write your Name: 
+Please write your Name: 
 Barak
 
-In the blank space below, please write your EID: 
+Please write your EID: 
+bl23344
 
-
-In the blank space below, please write your favorite hobby outside of BME: 
+Please write your favorite hobby outside of BME: EE
 
 
 That's it!
